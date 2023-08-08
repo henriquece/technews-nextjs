@@ -37,7 +37,7 @@ export const NewsCard: FC<NewsCardProps> = ({ story }) => {
     }
 
     getOgImage()
-  })
+  }, [])
 
   return (
     <a
