@@ -4,7 +4,7 @@ A Next.js blog, which fetches articles from the [HackerNews API](https://hacker-
 
 #### Tech Stack
 
-- Next.js, ReactJS, Typescript
+- Next.js (App Router), ReactJS, Typescript
 - **HTTP Client:** Axios
 - **Linter/Code Formatter:** ESLint, Prettier
 - **Git hooks:** Husky
